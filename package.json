@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/kareemalnoaman.lwc-kz5xa7y0",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve dgvR4I7aLmAnERtQLLB0 --open"
+  }
+}
